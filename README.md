@@ -1,4 +1,4 @@
-# SuSana Distancia is all you need: Enforcing class separability in metric learning via two novel distance-based loss functions for few-shot image classification
+# *SuSana Distancia is all you need:* Enforcing class separability in metric learning via two novel distance-based loss functions for few-shot image classification
 
 
 ## Abstract
